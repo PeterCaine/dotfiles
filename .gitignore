@@ -1,0 +1,6 @@
+# Ignore plugin manager data, swap files, etc.
+*.swp
+*.swo
+*.bak
+*.tmp
+lazy-lock.json
